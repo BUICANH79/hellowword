@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">hello wword</string>
+    <string name="nam">Nam</string>
+    <string name="email">Email</string>
+    <string name="chap_nhan">Chap nhan</string>
+    <string name="huy">huy</string>
+    <string name="nu">Nu</string>
+    <string name="textview">TextView</string>
+    <string name="ten">Ten</string>
+    <string name="ten">Ten</string>
+    <string name="email">Email</string>
+    <string name="_18">18</string>
+    <string name="email">Email</string>
+    <string name="ten">Ten</string>
+</resources>
